@@ -8,4 +8,4 @@ created a codespace vm.
 
 modify readme file.
 
-work in terminal
+work in terminal.
